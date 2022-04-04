@@ -1,0 +1,9 @@
+C:\Users\parkpoom\source\repos\Machine_Maintenance\DB\bin\Debug\DB.dll
+C:\Users\parkpoom\source\repos\Machine_Maintenance\DB\bin\Debug\DB.pdb
+C:\Users\parkpoom\source\repos\Machine_Maintenance\DB\bin\Debug\DB.xml
+C:\Users\parkpoom\source\repos\Machine_Maintenance\DB\obj\Debug\DB.Resources.resources
+C:\Users\parkpoom\source\repos\Machine_Maintenance\DB\obj\Debug\DB.vbproj.GenerateResource.cache
+C:\Users\parkpoom\source\repos\Machine_Maintenance\DB\obj\Debug\DB.vbproj.CoreCompileInputs.cache
+C:\Users\parkpoom\source\repos\Machine_Maintenance\DB\obj\Debug\DB.dll
+C:\Users\parkpoom\source\repos\Machine_Maintenance\DB\obj\Debug\DB.xml
+C:\Users\parkpoom\source\repos\Machine_Maintenance\DB\obj\Debug\DB.pdb
